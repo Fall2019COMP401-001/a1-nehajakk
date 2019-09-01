@@ -67,8 +67,8 @@ public class A1Adept {
 		String ans3 = String.format("%,.2f", average);
 			
 			
-		System.out.println("Biggest: " + customers[maxcount] + "(" + ans1 + ")");
-		System.out.println("Smallest: " + customers[mincount] + "(" + ans2 + ")");
+		System.out.println("Biggest: " + customers[maxcount] + " (" + ans1 + ")");
+		System.out.println("Smallest: " + customers[mincount] + " (" + ans2 + ")");
 		System.out.println("Average: " + ans3);
 			}
 	}
