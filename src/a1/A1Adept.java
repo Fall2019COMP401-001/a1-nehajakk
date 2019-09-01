@@ -42,6 +42,7 @@ public class A1Adept {
 			cust_total[i] = totalprice;
 		}
 		
+		
 		int maxcount = 0;
 		int mincount = 0;
 		double max = cust_total[0];
