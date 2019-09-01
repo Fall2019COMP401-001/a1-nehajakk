@@ -71,5 +71,13 @@ public class A1Adept {
 		System.out.println("Smallest: " + customers[mincount] + "(" + ans2 + ")");
 		System.out.println("Average: " + ans3);
 			}
-		
+
 	}
+
+
+
+
+
+
+
+
