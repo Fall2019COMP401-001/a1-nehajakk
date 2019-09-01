@@ -14,7 +14,7 @@ public class A1Example {
 		// Set up scanner object to read space-separated values
 		// from console input
 		
-		Scanner scan = new Scanner(System.in);
+		Scanner scan = new Scanner(System.in);   
 
 		// Read in count of numbers to process
 		
@@ -26,9 +26,8 @@ public class A1Example {
 		int[] values = new int[count];
 		
 		
-		// Read values into the array
-		
-		for (int i=0; i<values.length; i++) {
+		// Read values into the array. hello priya
+			for (int i=0; i<values.length; i++) {
 			values[i] = scan.nextInt();
 		}
 		
